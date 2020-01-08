@@ -2,8 +2,8 @@
 Gas expense calculator that calculates the average or exact gas expense of a desired trip.
 
 # What I Learned
-algorithms
+Algorithms
   
-while statements
+While Statements
 
-input validation
+Input Validation
